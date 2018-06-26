@@ -26,11 +26,12 @@ This repository is a personal project to analyze and predict the outcomes of Wor
 ## Project Structure
 ```
 | input
-   | fifa_ranking.csv
-   | results.csv
-   | Teams.csv
-   | World Cup 2018 Dataset.csv
-| Who Will Win The World Cup 2018.ipynb
+   |--fifa_ranking.csv
+   |-- results.csv
+   |-- Teams.csv
+   |-- World Cup 2018 Dataset.csv
+| notebook
+   |-- Who Will Win The World Cup 2018.ipynb
 ```
 
 ## Installation
